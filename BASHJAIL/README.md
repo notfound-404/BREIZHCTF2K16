@@ -118,7 +118,7 @@ Enter a cmd > $($'\\x63\\x61\\x74\\x20\\x66\\x6C\\x61\\x67')
 Dont hack me !
 ```
 
-Oh, right. \\x20 contains filtered chars.
+Oh, right. `\\x20` contains filtered chars.<br>
 If you were stuck here, you just had to Google : `bash commands without spaces`<br>
 (https://jon.oberheide.org/blog/2008/09/04/bash-brace-expansion-cleverness/)
 
