@@ -35,7 +35,7 @@ _noise(){
         'https://www.bonjourmadame.fr'
     )
     while sleep 1; do
-        RAND=$((RANDOM%28))
+        RAND=$((RANDOM % ${#URL[@]}))
         curl -s --connect-timeout 2 "${URL[RAND]}" &> /dev/null
     done
 }
