@@ -9,6 +9,7 @@
 ##Code and Write-up
 
 This challenge is a well-known technique we have already had in some CTFs.<br>
+But Saxx ask me to do this, and I can not refuse him anything :) <br>
 It is a simple DNS query, like this :<br>
 `<base64>.ndd`
 
