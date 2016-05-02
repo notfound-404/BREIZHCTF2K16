@@ -140,6 +140,9 @@ Your command is: BRZHCTF{...}
 Pwned.<br>
 __Flag__ : BRZHCTF{Yes_I_allow_u_to_hate_me...I_am_Notfound_and_I_love_b4sh.I_also_love_long_flag,saxxounette_and_kalouchi_and_the_others_trollz}
 
+Small asciicast : 
+[![Alt text for your video](http://pix.toile-libre.org/upload/original/1462182542.png)](https://asciinema.org/a/enbpmktycn237ecslojre4f4q#)
+
 Enjoy,<br>
 \- [Notfound](https://www.notfound.ovh)
 
