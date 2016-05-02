@@ -35,7 +35,8 @@ _noise(){
         'http://www.ssi.gouv.fr/'                                        
         'http://www.synactiv.fr/'                                        
         'http://www.gfi.fr/'                                             
-        'http://www.soprasteria.com/fr'                                  
+        'http://www.soprasteria.com/fr'
+        ## THX to SaxX for the following ##                                  
         'http://www.jaimelestratra.fr'                                   
         'http://www.p0rng4y.com'                                         
         'http://www.labretagneilpleut.fr'                                
