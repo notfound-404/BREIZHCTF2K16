@@ -53,11 +53,10 @@ Link this one :<br>
 Everything you need to know about this is here:<br>https://en.wikipedia.org/wiki/Punched_card
 
 As you can see, black dot have the same gap.<br>
-So you can script a decoder.
-
+So you can script a decoder.<br>
 I know many guys did it manually (it must have been funny :D).
 
-My code is available [here](https://github.com/notfound-404/BREIZHCTF2K16/blob/master/OLD_SCHOOL_HACKER/create_punch_card.py)
+My code is available : [here](https://github.com/notfound-404/BREIZHCTF2K16/blob/master/OLD_SCHOOL_HACKER/create_punch_card.py)
 
 Output : 
 ```
