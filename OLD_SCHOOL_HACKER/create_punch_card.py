@@ -46,7 +46,7 @@ def _write(nude_card, msg):
                         for l in range(x, x+5):
                             pix[l, h] = (0, 0, 0)
                 if BIT == "1":
-                    True
+                    continue
                 y += DELTA_Y
             x += DELTA_X
     img.save(NAME)
