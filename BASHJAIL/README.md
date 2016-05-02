@@ -7,8 +7,6 @@
 
 > BASHJAIL
 
-
-
 ---
 
 ##Code and Write-up
