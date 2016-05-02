@@ -8,7 +8,7 @@
 
 ##Code and Write-up
 
-This challenge is a well-known technique we have already had in some CTFs.
+This challenge is a well-known technique we have already had in some CTFs.<br>
 It is a simple DNS query, like this :<br>
 `<base64>.ndd`
 

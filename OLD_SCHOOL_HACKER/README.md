@@ -5,9 +5,6 @@
 **Solves:** 7% |
 **Description:** 
 
-> ...
-
-
 
 ---
 
