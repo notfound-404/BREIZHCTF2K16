@@ -41,11 +41,12 @@ He send the file to his mate :
 - A ciphertext : `DIWQGUKPMQEMXOJLHMNJBTABUCVAFHYWCQKGNDROIBE`
 - Pictures : [Pictures](https://github.com/notfound-404/BREIZHCTF2K16/blob/master/OLD_SCHOOL_HACKER/ALL_CARD)
 
-This sentence is important :
+This sentence is important :<br>
 `My grandpa was a cryptography addict, and he had participate to the 2nd WW`
 
 We can easily guess that the ciphertext is given by Enigma !
 Moreover, pics are punched-card<br>
+
 Link this one :<br>
 ![blre](https://github.com/notfound-404/BREIZHCTF2K16/blob/master/OLD_SCHOOL_HACKER/ALL_CARD/IMG_0Ajrs0VD7Q1.png)
 
