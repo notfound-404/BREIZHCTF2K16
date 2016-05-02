@@ -1,0 +1,45 @@
+clear
+A="
+                     .-~~~-.
+             .- ~ ~-(       )_ _
+            /                     ~ -.
+           |      BREIZH CLOUD        \
+
+              ~- . _____________ . -~
+               /   / '  / ' / /
+           /  /  /   /   /      /
+"
+
+B="
+                     .-~~~-.
+             .- ~ ~-(       )_ _
+            /                     ~ -.
+           |      BREIZH CLOUD        \
+
+              ~- . _____________ . -~
+                 /   / '  / ' / /
+             /  / ' / '  /  ' /     /
+"
+
+
+        T=('/ \' '| |' '_o_' '<o>' '\o/')
+        ( sleep 1 ; for j in {0..20}; do
+                tput cup 0 0 ; [[ $((j%2)) -eq 0 ]] && echo "$A" || echo "$B" ; sleep 0.5
+        done ) & P="$!"
+        TT=0.3
+        for (( i=0 ; i<5 ; i++ )); do
+                tput cup 14 15; echo "${T[2]}"
+                tput cup 15 15; echo " |"
+                tput cup 16 15; echo "${T[0]}"
+                sleep $TT
+                tput cup 14 15; echo "${T[3]}"
+                tput cup 15 15; echo " |"
+                tput cup 16 15; echo "${T[1]}"
+                sleep $TT
+                tput cup 14 15; echo "${T[4]}"
+                tput cup 15 15; echo " |"
+                tput cup 16 15; echo "${T[0]}"
+                sleep $TT
+        done
+kill -9 $P
+clear
