@@ -7,11 +7,6 @@ import convert
 from PIL import Image
 
 
-def _draw(d):
-    for D in convert._convert_to_bin(d):
-        print D
-
-
 START_X = 25
 START_Y = 26
 DELTA_X = 34-25
