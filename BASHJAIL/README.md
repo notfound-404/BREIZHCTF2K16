@@ -60,7 +60,7 @@ while true; do
 done
 ```
 
-Here, the .omg file : [.omg](https://github.com/notfound-404/BREIZHCTF2K16/)
+Here, the .omg file : [.omg](https://github.com/notfound-404/BREIZHCTF2K16/blob/master/BASHJAIL/omg)
 
 The first thing to do, was to ^c to kill the timeout, and to get a small sleep.
 You can see it's RANDOM.
