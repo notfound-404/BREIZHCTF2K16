@@ -54,7 +54,8 @@ So you can script a decoder.<br>
 I know many guys did it manually (it must have been funny :D).
 
 My code is available : [here](https://github.com/notfound-404/BREIZHCTF2K16/blob/master/OLD_SCHOOL_HACKER/create_punch_card.py)<br>
-( And I have generated the card using [this](https://github.com/notfound-404/BREIZHCTF2K16/blob/master/OLD_SCHOOL_HACKER/put_data_on_card.sh) )
+It's allow you to write and read punched card.<br>
+( And I have generated the chall using [this](https://github.com/notfound-404/BREIZHCTF2K16/blob/master/OLD_SCHOOL_HACKER/put_data_on_card.sh) )
 
 Output : 
 ```
