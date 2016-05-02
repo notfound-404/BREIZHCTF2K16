@@ -52,8 +52,7 @@ Link this one :<br>
 
 Everything you need to know about this is here:<br>https://en.wikipedia.org/wiki/Punched_card
 
-As you can see, black dot have the same gap.
-
+As you can see, black dot have the same gap.<br>
 So you can script a decoder.
 
 I know many guys did it manually (it must have been funny :D).
